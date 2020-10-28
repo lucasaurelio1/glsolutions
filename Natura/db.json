@@ -1,0 +1,26 @@
+  
+{
+    "toys": [
+        {
+          "id": 1,
+          "name": "Gabrielle Aiko",
+          "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+          "age": 26,
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Fábio Pimentel",
+          "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+          "age": 42,
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Lucas Aurélio",
+          "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
+          "age": 21,
+          "type": 2
+        }
+    ]
+  }

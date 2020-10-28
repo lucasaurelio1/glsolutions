@@ -1,0 +1,106 @@
+/* laranja - #fd6b0d - (253, 107, 13)*/
+
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.headerBar{
+	padding-top: 5px;
+}
+
+.pageTitle{
+	font-size: 18px;
+	margin-top: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: 700;
+}
+
+.userIcon{
+	border-radius: 50%;
+	font-size: 18px;
+	padding: 10px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.liSideMenu{
+	padding: 5px 20px;
+	width: 100%;
+	font-size: 16px;
+	vertical-align: middle;
+}
+
+.liSideMenu:hover{
+	background-color: #bdbdbd;
+	opacity: 0.5s;
+}
+
+.liSideMenu:active{
+	background-color: bisque;
+}
+
+.menuIcon{
+	font-size: 16px;
+	vertical-align: middle;
+	color: #fd6b0d;
+}
+
+.active-tab{
+	background-color: #d4d4d4;
+}
+
+.contactTitle{
+	font-weight: 500 !important;
+}
+
+.thickFont{
+	font-weight: 600 !important;
+}
+
+.personaIcon{
+	color: #fd6b0d;
+	vertical-align: middle;
+}
+
+[type="radio"]:checked + span:after,
+[type="radio"].with-gap:checked + span:before,
+[type="radio"].with-gap:checked + span:after{
+	background-color: #fd6b0d !important;
+	border: 2px solid #fd6b0d !important;
+}
+
+.labelCheckbox{
+	margin-right: 30px;
+}
+
+.cadastroContatos{
+	margin-bottom: 30px;
+}
+
+/******************************* mapas.html *******************************/
+
+.nopad{
+	padding: 0 !important;
+}
+
+#map {
+	height: 570px;
+}
+
+.collectionLateral{
+}
+.iconCollectionLateral{
+	border-radius: 50%;
+	margin: 0 6px;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.groupIconLateral{
+	margin-top: 10px;
+}
